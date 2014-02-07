@@ -13,9 +13,9 @@
 
 [pinterest]
 	company: Pinterest
-	num_female_eng: 16
-	num_eng: 117
-	last_updated: 2014-02-05
+	num_female_eng: 14
+	num_eng: 105
+	last_updated: 2013-11-05
 [dropbox]
 	company: Dropbox
 	num_female_eng: 9
@@ -397,11 +397,6 @@
 	num_female_eng: 10
 	num_eng: 160
 	last_updated: 2013-10-26
-[freshbooks]
-	company: FreshBooks.com
-	num_female_eng: 5
-	num_eng: 25
-	last_updated: 2013-11-26
 [bitly]
 	company: Bitly
 	num_female_eng: 1
@@ -501,8 +496,8 @@
 [webkite]
 	company: Webkite
 	num_female_eng: 4
-	num_eng: 8
-	last_updated: 2014-02-06
+	num_eng: 10
+	last_updated: 2013-11-08
 [meteor]
 	company: Meteor
 	num_female_eng: 3
@@ -548,11 +543,6 @@
 	num_female_eng: 2
 	num_eng: 12
 	last_updated: 2013-11-12
-[bendyworks]
-	company: Bendyworks
-	num_female_eng: 3
- 	num_eng: 11
- 	last_updated: 2014-01-24
 [7digital]
 	company: 7digital
 	num_female_eng: 1
@@ -613,6 +603,11 @@
 	num_female_eng: 0
 	num_eng: 5
 	last_updated: 2013-12-02
+[indiegogo]
+	company: Indiegogo
+	num_female_eng: 4
+	num_eng: 16
+	last_updated: 2014-02-06
 [manilla]
 	company: Manilla, LLC
 	num_female_eng: 10
@@ -638,23 +633,13 @@
 	num_female_eng: 9
 	num_eng: 52
 	last_updated: 2014-01-15
-[refinery29]
-	company: Refinery29
-	num_female_eng: 4
-	num_eng: 15
-	last_updated: 2014-02-05
 [harvest]
 	company: Harvest
 	num_female_eng: 0
 	num_eng: 15
 	last_updated: 2013-12-12
-[simplymeasured]
-	company: Simply Measured
-	num_female_eng: 2
-	num_eng: 29
-	last_updated: 2014-02-04
 [redfin]
 	company: Redfin
 	num_female_eng: 9
 	num_eng: 41
-	last_updated: 2014-01-27
+	last_updated: 2013-01-27
